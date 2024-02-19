@@ -19,3 +19,6 @@ In the project directory, you can run: </br>
 `npm install` `npm run dev` Runs the app in the development mode. The page will reload if you make edits. You will also see any lint errors in the console.
 
 <h3>Screen Gif</h3>
+
+![redux](https://github.com/begpan/e-commerceRedux/assets/145170180/341674c2-48ec-43e3-8731-130fd1e76759)
+
