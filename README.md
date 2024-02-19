@@ -1,9 +1,21 @@
-# redux thunk
+<h2>E-commerce Site</h2>
 
-Redux thunk , redux kullanılan projelerde asenkron işlemleri kolayşlaştırmak bileşen içerisndeki karışılıklığı azaltmak ve aynı zamanda bileşen içseindeki kompleks yapıyı ayrı bir noktda tanımlamamızı sağlar.
+This project is a simple e-commerce application built using React and Redux. Users can review the products, add them to the cart, edit them and see the total price through the shopping cart.
 
-Redux temel yapısı eylemlerin senkron olması üzerine kuruldur. Yani bir eyelem tetiklendiğinde bu eylem bekleme süresi olmadan hemen işlenir state güncellenir.
+<h3>Features</h3>
+Adding and removing products from the cart </br>
+View product list on cart </br>
+Instantly update the number of baskets </br>
 
-Asenkron işlemlerle uğraşmak istendiğinde, Redux thunk devreye girer.
-Redux thunk, action oluşturan fonksiyonların basit bir nesne döndürmesi yerine bir fonksiyon döndürmesine izin verir. Bu ssayede asenkron işlemler gerçekleştirelbilir.
-# e-commerceRedux
+This library is based on react-router-dom. bootstrap was used for UI components and styling.
+
+<h3>Getting Started with</h3>
+
+`npm create vite`
+
+<h3>Available Scripts</h3>
+In the project directory, you can run: </br>
+
+`npm install` `npm run dev` Runs the app in the development mode. The page will reload if you make edits. You will also see any lint errors in the console.
+
+<h3>Screen Gif</h3>
